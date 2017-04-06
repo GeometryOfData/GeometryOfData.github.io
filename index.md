@@ -1,3 +1,4 @@
+
 # Welcome to the Geometry of Data
 
 This is a space for colloboration on the geometry of data, diffusion maps etc. 
@@ -7,4 +8,7 @@ This is a space for colloboration on the geometry of data, diffusion maps etc.
 
 For a list of projects in this space, see [GeometryOfData on Github](https://github.com/GeometryOfData/).
 
+# Geometry of data wiki
+
+[GeometryOfData wiki](https://github.com/GeometryOfData/docs/wiki)
 

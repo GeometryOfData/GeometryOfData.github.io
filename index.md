@@ -9,7 +9,7 @@ For a list of projects in this space, [GeometryOfData on Github](https://github.
 
 For a list of related projects, see [related projects wiki page](https://github.com/GeometryOfData/docs/wiki/Related-projects).
 
-# Geometry of data wiki
+# Geometry of Data wiki and discussions
 
 [GeometryOfData wiki](https://github.com/GeometryOfData/docs/wiki) for information about geometry of data, and on using this space for collaboration. 
 

@@ -11,5 +11,9 @@ For a list of related projects, see [related projects wiki page](https://github.
 
 # Geometry of data wiki
 
-[GeometryOfData wiki](https://github.com/GeometryOfData/docs/wiki)
+[GeometryOfData wiki](https://github.com/GeometryOfData/docs/wiki) for information about geometry of data, and on using this space for collaboration. 
+
+[GeometryOfData issues](https://github.com/GeometryOfData/docs/issues): discussion on how to use this space.
+
+
 
